@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A tech entrepreneur charging his laptop in a rain-damaged hostel bathroom is electrocuted when faulty wiring turns a puddle into a death trap.",
     "long": ""
   },
   "death_type": "Faulty Electrical",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "In the startup world, they called him a disruptor. The 220 volts disrupted him right back."
 }
