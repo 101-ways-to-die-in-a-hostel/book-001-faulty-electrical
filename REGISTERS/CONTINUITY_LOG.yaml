@@ -1,0 +1,94 @@
+# Continuity Log
+# Track character details, plot points, and foreshadowing for consistency
+
+book:
+  number: "001"
+  slug: "faulty-electrical"
+  victim: "Marcus Chen-Williams"
+
+characters:
+  primary_victim:
+    name: "Marcus Chen-Williams"
+    introduced_chapter: 1
+    key_traits:
+      - "Arrogant tech bro"
+      - "Obsessive about connectivity"
+      - "Dismissive of safety warnings"
+    arc_notes:
+      - "Escalates risk-taking to maintain control and bandwidth"
+
+  secondary_characters: []
+    # - name: "Character Name"
+    #   role: "role in story"
+    #   introduced_chapter: X
+    #   fate: "integrated/survives/dies"
+    #   notes: []
+
+  staff_integrated:
+    - name: "Bee (Busaba Sriwong)"
+      role: "Receptionist"
+      revealed_chapter: 1
+
+  @hostelreaper:
+    mentions:
+      - chapter: 23
+        context: "Marcus scrolls past a @HostelReaper post warning about humming outlets."
+
+timeline:
+  day_1: []
+    # - chapter: 1
+    #   time: "Morning"
+    #   event: "Arrival"
+  day_3:
+    - chapter: 23
+      time: "Late Night"
+      event: "Returns to ground-floor bathroom to send emails, ignores worsening electrical warnings."
+
+foreshadowing:
+  planted: []
+    # - element: "Strange warmth in walls"
+    #   chapter_planted: 2
+    #   chapter_payoff: 38
+    #   status: "planted"  # planted | paid_off
+
+  red_herrings: []
+    # - element: "Suspicious backpacker"
+    #   chapter: 5
+    #   resolved: 12
+
+death_progression:
+  warning_signs:
+    - chapter: 23
+      type: "explicit"
+      element: "Blue flash and burning plastic smell from outlet while charging in standing water."
+      victim_rationalization: "He tells himself he only needs two minutes and is still in shoes."
+
+locations_used:
+  - location: "Reception"
+    chapters: [23]
+  - location: "Victim's Room"
+    chapters: []
+  - location: "Ground-floor bathroom"
+    chapters: [23]
+  - location: "Stairwell"
+    chapters: [23]
+  - location: "Common room"
+    chapters: [23]
+  - location: "Kitchen"
+    chapters: [23]
+  - location: "Courtyard"
+    chapters: [23]
+  # etc.
+
+objects:
+  significant_items:
+    - item: "Travel adapter and charging cable"
+      introduced: 21
+      significance: "Faulty power source used in wet bathroom despite warnings."
+      last_mentioned: 23
+
+notes:
+  - chapter: 23
+    note: "Bathroom floor fully flooded by ~3 AM; outlet emits blue flash and burning smell."
+
+last_updated: "2026-01-06"

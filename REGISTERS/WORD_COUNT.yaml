@@ -1,0 +1,104 @@
+# Word Count Register
+# Updated automatically by Writer Agent
+
+book:
+  number: "001"
+  slug: "faulty-electrical"
+  target: 250000
+
+daily_log: []
+  # - date: "2026-01-06"
+  #   words_written: 5200
+  #   chapter: 1
+  #   cumulative: 5200
+
+weekly_summary: []
+  # - week: 1
+  #   start_date: "2026-01-06"
+  #   words_written: 35000
+  #   chapters_completed: 7
+  #   cumulative: 35000
+
+chapter_breakdown:
+  - chapter: 1
+    word_count: 4013
+    status: "complete"
+  - chapter: 2
+    word_count: 4095
+    status: "complete"
+  - chapter: 3
+    word_count: 4197
+    status: "complete"
+  - chapter: 4
+    word_count: 4010
+    status: "complete"
+  - chapter: 5
+    word_count: 4060
+    status: "complete"
+  - chapter: 6
+    word_count: 4179
+    status: "complete"
+  - chapter: 7
+    word_count: 4061
+    status: "complete"
+  - chapter: 8
+    word_count: 4235
+    status: "complete"
+  - chapter: 9
+    word_count: 4201
+    status: "complete"
+  - chapter: 10
+    word_count: 4003
+    status: "complete"
+  - chapter: 11
+    word_count: 4030
+    status: "complete"
+  - chapter: 12
+    word_count: 5994
+    status: "complete"
+  - chapter: 13
+    word_count: 4060
+    status: "complete"
+  - chapter: 14
+    word_count: 4018
+    status: "complete"
+  - chapter: 15
+    word_count: 4011
+    status: "complete"
+  - chapter: 16
+    word_count: 4133
+    status: "complete"
+  - chapter: 17
+    word_count: 4595
+    status: "complete"
+  - chapter: 18
+    word_count: 4194
+    status: "complete"
+  - chapter: 19
+    word_count: 4067
+    status: "complete"
+  - chapter: 20
+    word_count: 4527
+    status: "complete"
+  - chapter: 21
+    word_count: 5248
+    status: "complete"
+  - chapter: 22
+    word_count: 4492
+    status: "complete"
+  - chapter: 23
+    word_count: 4125
+    status: "complete"
+  # ... chapters 2-50 follow same pattern
+
+totals:
+  current: 98548
+  target: 250000
+  remaining: 151452
+  percentage: 39.4
+
+pace:
+  average_per_chapter: 4285
+  estimated_completion: "TBD"
+
+last_updated: "2026-01-06"
